@@ -11,7 +11,13 @@ Code and data for the project **FineSkiing**
 ## :innocent: FineSkiing Dataset
 - **Full Dataset**:  
   After Acceptance
-  
+
+## 🙏 Acknowledgements
+
+We would like to express our sincere gratitude to **Professor Chunming Fu**, an international skiing judge, for his invaluable guidance and professional support throughout this project.  
+We also thank **Yuandong Zhang** for his contributions to the application development and further extension of this work.
+
+
 ## :chocolate_bar: Citation
 If you find our work useful, please consider citing:
 
