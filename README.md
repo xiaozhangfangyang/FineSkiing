@@ -1,39 +1,31 @@
 # FineSkiing
-code and data for the project FineSkiing 
+Code and data for the project **FineSkiing**
 
 ## :dart: Updates
-- :Finskiing: After Acceptance
 - :white_check_mark: **2025.11.20** – SkiTrack Dataset Added
 
-
-## :innocent: Skitrack Dataset
+## :innocent: SkiTrack Dataset
 - **Full Dataset**:  
-  [Baidu Drive]([https://pan.baidu.com/s/1wLWdVZdZhgL2OO2ADaWlLw](https://pan.baidu.com/s/1AwjCBfrFJioJYMjx_CMqjA )) (code: `l7it`)
+  [Baidu Drive](https://pan.baidu.com/s/1AwjCBfrFJioJYMjx_CMqjA) (code: `l7it`)
 
-
-
-
-
-
-
-
-
-
+## :innocent: FineSkiing Dataset
+- **Full Dataset**:  
+  After Acceptance
+  
 ## :chocolate_bar: Citation
-
 If you find our work useful, please consider citing:
 
 ```bibtex
-@article{Skitrack,
-  title   = {{A Real-World Animation Super-Resolution Benchmark with Color Degradation and Multi-Scale Multi-Frequency Alignment}},
-  author  = {Jiang, Yu and Zhang, Yongji and Li, Siqi and Huang, Yang and Wang, Yuehang and Yao, Yutong and Gao, Yue},
+@article{SkiTrack,
+  title   = {{SkiTrack: An Aerial Skiing Benchmark for Human-Centric Object Tracking}},  % ← 这里替换成正确标题
+  author  = {Jiang, Yu and Zhang, Yongji and Li, Siqi and Wang, Yuehang and Gao, Yue},
   journal = {ACM Transactions on Multimedia Computing, Communications, and Applications},
   year    = {2025}
 }
 
-@article{Fineskiing,
+@article{FineSkiing,
   title   = {{FineSkiing: A Fine-grained Benchmark for Skiing Action Quality Assessment}},
   author  = {Zhang, Yongji and Li, Siqi and Gao, Yue and Jiang, Yu},
-  journal = {ACM Transactions on Multimedia Computing, Communications, and Applications},
+  journal = {arxiv},
   year    = {2025}
 }
