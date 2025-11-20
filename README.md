@@ -15,7 +15,11 @@ Code and data for the project **FineSkiing**
 ## 🙏 Acknowledgements
 
 We would like to express our sincere gratitude to **Professor Chunming Fu**, an international skiing judge, for his invaluable guidance and professional support throughout this project.  
-We also thank **Yuandong Zhang** for his contributions to the application development and further extension of this work.
+
+We also thank **Yuandong Zhang** for his contributions to the application development and further extension of this work.  
+
+Special thanks to **Shuwei Yu** and **Yangfan Lu** for their dedicated efforts in data collection, which were essential to the success of this project.
+
 
 
 ## :chocolate_bar: Citation
