@@ -1,10 +1,14 @@
 # FineSkiing
 code and data for the project FineSkiing 
 
+## :dart: Updates
+- :Finskiing: After Acceptance
+- :white_check_mark: **2025.11.20** – SkiTrack Dataset Added
 
 
-
-
+## :innocent: Skitrack Dataset
+- **Full Dataset**:  
+  [Baidu Drive]([https://pan.baidu.com/s/1wLWdVZdZhgL2OO2ADaWlLw](https://pan.baidu.com/s/1AwjCBfrFJioJYMjx_CMqjA )) (code: `l7it`)
 
 
 
