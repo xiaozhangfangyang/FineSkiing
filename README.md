@@ -27,7 +27,7 @@ If you find our work useful, please consider citing:
 
 ```bibtex
 @article{SkiTrack,
-  title   = {{SkiTrack: An Aerial Skiing Benchmark for Human-Centric Object Tracking}},  % ← 这里替换成正确标题
+  title   = {{SkiTrack: An Aerial Skiing Benchmark for Human-Centric Object Tracking}},
   author  = {Jiang, Yu and Zhang, Yongji and Li, Siqi and Wang, Yuehang and Gao, Yue},
   journal = {ACM Transactions on Multimedia Computing, Communications, and Applications},
   year    = {2025}
